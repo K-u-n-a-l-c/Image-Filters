@@ -1,0 +1,18 @@
+# Use this statement to run the program :-
+
+	clang -ggdb3 -O0 -Qunused-arguments -std=c11 -Wall -Werror -Wextra -Wno-sign-compare -Wno-unused-parameter -Wno-unused-variable -Wshadow -lm -o filter filter.c helpers.c
+	
+# Use these command to apply the filters :-
+
+$ ./filter -g (location)inputfile.bmp outfile.bmp
+$ ./filter -s (location)inputfile.bmp outfile.bmp
+$ ./filter -r (location)inputfile.bmp outfile.bmp
+$ ./filter -b (location)inputfile.bmp outfile.bmp
+
+
+# To choose the correct filter :-
+
+-g signifies the GrayScale Filter
+-s signifies the Sepia filter
+-r signifies the Reflection Filter(Horizontally)
+-b signifies the Blur Filter
