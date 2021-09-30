@@ -15,4 +15,4 @@ $ ./filter -b (location)inputfile.bmp outfile.bmp
 -g signifies the GrayScale Filter
 -s signifies the Sepia filter
 -r signifies the Reflection Filter(Horizontally)
--b signifies the Blur Filter
+-b signifies the Blur Filter without edge detection.
