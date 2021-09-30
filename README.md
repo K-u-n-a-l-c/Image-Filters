@@ -4,7 +4,7 @@ Tool that implements filters on images having .bmp format.
 ### 1.) GrayScale
  This filter turn images into BLack & White format.
  
- Original Input Image:
+ Original Image:
  
  
  
@@ -26,7 +26,7 @@ Tool that implements filters on images having .bmp format.
  This filter gives images an old-timey feel by making the whole image look a bit reddish-brown.
  
  
-  Original Input Image:
+  Original Image:
  
  
  
@@ -48,7 +48,7 @@ This is a filter where the resulting image is what you would get by placing the 
 
 
 
-Original Input Image:
+Original Image:
  
  
  
@@ -68,7 +68,7 @@ Original Input Image:
 This filter uses BOX BLUR technique to blur the image.
 
 
-Original Input Image:
+Original Image:
  
  
  
