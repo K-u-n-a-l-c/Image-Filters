@@ -1,5 +1,5 @@
 # Image-Filters
-Tool that implements filters on images having .bmp format.
+A Tool that implements filters on images(.bmp).
 
 ### 1.) GrayScale
  This filter turn images into BLack & White format.
@@ -49,6 +49,7 @@ This is a filter where the resulting image is what you would get by placing the 
 
 
 Original Image:
+
  
  
  
@@ -78,6 +79,7 @@ Original Image:
  
  
  RESULT:
+ 
  
  
  
